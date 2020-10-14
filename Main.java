@@ -1,5 +1,5 @@
 /*Lab 4
-Partners Grant Rimsdt and Sam Hunkler
+Partners Grant Rimstidt and Sam Hunkler
 9/16/2020
 */
 import java.util.*;
